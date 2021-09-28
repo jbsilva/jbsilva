@@ -16,6 +16,10 @@ For more details, check my [CV](https://juliobs.com/cv/Julio_Batista_Silva-CV-en
 I'm a lifelong learner passionate about science, technology, and languages.  
 I'm currently learning Mandarin Chinese, [Rust](https://github.com/rust-lang) and diving deeper into Data Science.
 
+[![Arch](https://img.shields.io/badge/I%20use%20Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://github.com/jbsilva)
+[![Vim](https://img.shields.io/badge/I%20use%20VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://github.com/jbsilva)
+[![Vegan](https://img.shields.io/badge/🌱I%20am%20vegan-black.svg?style=for-the-badge&logoColor=white)](https://github.com/jbsilva)
+
 ---
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbsilva&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)](https://github.com/jbsilva)
